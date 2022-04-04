@@ -1,0 +1,9 @@
+{
+    "name":"Karthik Wadeyar",
+    "email":"karthikwodeyar@gmail.com",
+    "mobile":"9449958678",
+    "gender":"male",
+    "age": 29,
+    "natonality":"Indian"
+
+}
